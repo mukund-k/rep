@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 
+
 # Assingment 3 
+
+from functools import *
+
 # 1) a function that calculates the sum of two arguments
 def sum(x, y):
     return x + y
